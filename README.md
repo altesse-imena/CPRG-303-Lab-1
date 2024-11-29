@@ -1,8 +1,4 @@
-This README.md file contains the documentation for how I installed React Native on my MacOS system for Android development.  
-
-**System requirements:**
-   The system requirements being used to run react native require at least (at the bare minimum) 4GB of RAM, 10GB of storage space for secure operation, CPU requirements will want you to have a minimum of 6 cores. As for OS: any windows 11 system, MAC OS, or most windows 10. Operating systems such as Ubuntu 16 or Linux will also work.
-
+Installed on MacOS
 **Installing React Native:**
       First, you may run React Native without a framework, but it is highly reccomended to use one if you are building a new application. 
       
